@@ -16,36 +16,36 @@ El proyecto tiene como objetivo resolver el famoso rompecabezas del Cubo de Rubi
 
 El archivo de texto (configuracion_cubo.txt) debe seguir el siguiente formato:
 
-W W W
-W W W
-W W W
-O O O 
-R R R 
-G G G 
-B B B
-O O O 
-R R R 
-G G G 
-B B B
-O O O 
-R R R 
-G G G 
-B B B
-Y Y Y
-Y Y Y
-Y Y Y
+      W W W
+      W W W
+      W W W
+      O O O 
+      R R R 
+      G G G 
+      B B B
+      O O O 
+      R R R 
+      G G G 
+      B B B
+      O O O 
+      R R R 
+      G G G 
+      B B B
+      Y Y Y
+      Y Y Y
+      Y Y Y
 
 Es como hacer:
 
-      W W W
-      W W W
-      W W W
-O O O R R R G G G B B B
-O O O R R R G G G B B B
-O O O R R R G G G B B B
-      Y Y Y
-      Y Y Y
-      Y Y Y
+            W W W
+            W W W
+            W W W
+      O O O R R R G G G B B B
+      O O O R R R G G G B B B
+      O O O R R R G G G B B B
+            Y Y Y
+            Y Y Y
+            Y Y Y
 
 Donde cada letra representa el color de una cara del cubo:
 
