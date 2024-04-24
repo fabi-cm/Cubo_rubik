@@ -162,7 +162,7 @@ class RubikCube:
                 print(' '.join(row))
             print()
 
-# Ejemplo de uso
+# Pruebas de uso:
 cube = RubikCube()
 if cube.load_cube_from_file('configuracion_cubo.txt'):
     cube.print_cube()
